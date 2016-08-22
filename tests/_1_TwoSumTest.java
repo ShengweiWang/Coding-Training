@@ -1,5 +1,5 @@
 import org.junit.Test;
-
+import java.util.Random;
 import static org.junit.Assert.*;
 
 /**
@@ -15,5 +15,12 @@ public class _1_TwoSumTest {
         int[] res = a.twoSum(nums, target);
         assert 1 == res[0];
         assert 2 == res[1];
+
+        Random random = new Random();
+        for (int i1 = 0; i1 < 150; i1++){
+            int s1 = random.nextInt(999998) + 1;
+            int s2 = random.nextInt(999998) + 1;
+            System.out.println(s1 + " " + s2);
+        }
     }
 }
