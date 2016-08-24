@@ -7,9 +7,9 @@ public class _260_SingleNumberIII {
         for (int i = 0; i < nums.length; ++i)
             diff ^= nums[i];
 
-        System.out.print(diff);
-        System.out.print(" ~ ");
-        System.out.println(diff & - diff);
+//        System.out.print(diff);
+//        System.out.print(" ~ ");
+//        System.out.println(diff & - diff);
 
         diff &= -diff; //get the last set bit
 
