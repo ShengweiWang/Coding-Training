@@ -2,6 +2,12 @@ Need to pay attention
 _371_SumOfTwoIntegers
 _260_SingleNumberIII:
     care about the negative integer. Use diff &= -diff to get the rightmost different bit
+
+_287_
+    double cycle linked list
+_309_
+_326_ (as long as the range is known, there is a tricky way to solve problem)
+
 Hint used
 _258_AddDigits
 
@@ -21,7 +27,11 @@ _217_
 _94_
     usually, even the result is empty, we should return an empty result rather than null
 
+_216_
+    dizzy, basic dfs
+
 Need optimization:
 104
 237
+52 classical n queen. used bit operation, and need while - stack, reverse optimization
 
