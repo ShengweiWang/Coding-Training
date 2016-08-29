@@ -7,6 +7,9 @@ _287_
     double cycle linked list
 _309_
 _326_ (as long as the range is known, there is a tricky way to solve problem)
+_44_ should use dp
+335
+
 
 Hint used
 _258_AddDigits
@@ -30,8 +33,11 @@ _94_
 _216_
     dizzy, basic dfs
 
+208 trie
+
 Need optimization:
 104
 237
 52 classical n queen. used bit operation, and need while - stack, reverse optimization
-
+212
+174
