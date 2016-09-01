@@ -9,6 +9,7 @@ _309_
 _326_ (as long as the range is known, there is a tricky way to solve problem)
 _44_ should use dp
 335
+32
 
 
 Hint used
@@ -35,6 +36,7 @@ _216_
 
 208 trie
 
+188 need to consider some accelerate case
 Need optimization:
 104
 237
