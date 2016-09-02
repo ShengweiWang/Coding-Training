@@ -10,6 +10,7 @@ _326_ (as long as the range is known, there is a tricky way to solve problem)
 _44_ should use dp
 335
 32
+240 o(m+n)
 
 
 Hint used
@@ -37,9 +38,13 @@ _216_
 208 trie
 
 188 need to consider some accelerate case
+
+56 : Collections.sort(), Comparator 
+
 Need optimization:
 104
 237
 52 classical n queen. used bit operation, and need while - stack, reverse optimization
 212
 174
+236
