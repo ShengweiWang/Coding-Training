@@ -12,6 +12,8 @@ public class _138_CopyListWithRandomPointer {
         RandomListNode(int x) { this.label = x;}
     }
     public RandomListNode copyRandomList(RandomListNode head) {
+        if(head == null)
+            return head;
         RandomListNode cur = head;
         while(cur != null){
             RandomListNode ins = new RandomListNode(cur.label);
@@ -21,14 +23,21 @@ public class _138_CopyListWithRandomPointer {
         }
         cur = head;
         while(cur != null){
-            cur.next.random = cur.random.next;
+            if(cur.random == null)
+                cur.next.random = null;
+            else
+                cur.next.random = cur.random.next;
             cur = cur.next.next;
         }
-        cur = head.next;
-        while(cur.next != null){
-            cur.next = cur.next.next;
+        RandomListNode newhead = head.next;
+        cur = head;
+        while(cur != null){
+            RandomListNode copied = cur.next;
+            cur.next = copied.next;
             cur = cur.next;
+            if(cur != null)
+                copied.next = cur.next;
         }
-        return head.next;
+        return newhead;
     }
 }

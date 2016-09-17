@@ -11,11 +11,16 @@ _44_ should use dp
 335
 32
 240 o(m+n)
+73 O(1)
+341 use list iterator
+259
+380 : switch to keep index
 
-
+classic : 315 - 327 (tree method needed, pay attention to range)
+302 binary search
 Hint used
 _258_AddDigits
-
+11
 Debugging Hints
 _167_TwoSumII_InputArrayIsSorted
     binary search
@@ -41,6 +46,9 @@ _216_
 
 56 : Collections.sort(), Comparator 
 257 : java reference StringBuilder
+
+291 : startWith, substring, containsKey, contains, add, put
+
 Need optimization:
 104
 237
@@ -49,3 +57,8 @@ Need optimization:
 174
 236
 27
+360 ugly code
+
+Reminder:
+kmp
+tarjan
