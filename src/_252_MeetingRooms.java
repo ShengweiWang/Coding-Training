@@ -6,11 +6,7 @@ import java.util.Comparator;
  */
 public class _252_MeetingRooms {
     public boolean canAttendMeetings(Interval[] intervals) {
-        Arrays.sort(intervals, new Comparator<Interval>() {
-            @Override
-            public int compare(Interval o1, Interval o2) {
-                return Integer.compare();
-            }
-        }
+
+        return false;
     }
 }

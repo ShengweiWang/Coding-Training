@@ -7,7 +7,7 @@ import java.util.Map;
 public class _359_LoggerRateLimiter {
     Map<String, Integer> map;
     /** Initialize your data structure here. */
-    public Logger() {
+    public _359_LoggerRateLimiter() {
         map = new HashMap<String, Integer>();
 
     }

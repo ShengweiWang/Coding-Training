@@ -17,10 +17,23 @@ _44_ should use dp
 380 : switch to keep index
 
 classic : 315 - 327 (tree method needed, pay attention to range)
+272
 302 binary search
+
+135 prove
+
 Hint used
 _258_AddDigits
 11
+330 details
+99
+
+294 search + memory
+50 overflow
+87
+308 BIT
+4 classical
+
 Debugging Hints
 _167_TwoSumII_InputArrayIsSorted
     binary search
@@ -62,3 +75,5 @@ Need optimization:
 Reminder:
 kmp
 tarjan
+Morris Traversal
+BIT binary indexed tree
