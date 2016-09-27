@@ -77,3 +77,12 @@ kmp
 tarjan
 Morris Traversal
 BIT binary indexed tree
+
+
+LinkedList:
+1.two pointer, slow, fast to caculate the enter of cycle, and count the mid, (slow, fast <-head, 
+    when fast == null || fast.next == null, slow == mid (odd mid, even start of right)
+2.Use dummy.next = head to avoid corner case
+3.A nice way to get intersection. a = a == null?headB:a.next; 
+4.Copy random a1->b1->a2->b2...
+5.Insertion Sort

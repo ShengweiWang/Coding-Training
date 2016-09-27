@@ -9,64 +9,73 @@ import java.util.*;
 public class _146_LRUCache {
     Node head;
     Node end;
-    HashMap<Integer, Node> hashMap;
+    Map<Integer, Node> map;
     int capacity;
-
-    public _146_LRUCache(int capacity) {
+    public _146_LRUCache(int capacity){
         this.capacity = capacity;
+        map = new HashMap<Integer, Node>();
         head = null;
         end = null;
-        hashMap = new HashMap<>();
     }
 
     public int get(int key){
-        Node cur = hashMap.getOrDefault(key, null);
-        if(cur == null)
+        if(!map.containsKey(key))
             return -1;
         else {
+            Node cur = map.get(key);
             moveNodeToHead(cur);
-            return cur.value;
+            return cur.val;
         }
     }
 
     public void set(int key, int value){
-        Node cur = hashMap.getOrDefault(key, null);
-        if (cur != null){
-            cur.value = value;
+        if(map.containsKey(key)){
+            Node cur = map.get(key);
+            cur.val = value;
             moveNodeToHead(cur);
             return;
-        }
-        Node temp = new Node();
-        temp.key = key;
-        temp.value = value;
-        temp.pre = null;
-        temp.next = head;
-
-
-        if (hashMap.size() == capacity){
-            hashMap.remove(end.key);
-            end = end.pre;
-            if(end != null)
+        } else {
+            Node cur = new Node(key, value);
+            map.put(key, cur);
+            cur.next = head;
+            if(head == null){
+                head = cur;
+                end = cur;
+            } else {
+                head.pre = cur;
+                head = cur;
+            }
+            if(map.size() > capacity){
+                map.remove(end.key);
+                end = end.pre;
                 end.next = null;
-        }
-        head = temp;
-        hashMap.put(key, temp);
-        if (end == null){
-            end = head;
-        }
+            }
 
+        }
+    }
+
+
+    class Node{
+        int val;
+        int key;
+        Node pre;
+        Node next;
+        Node(int key, int val){
+            this.key = key;
+            this.val = val;
+            pre = null;
+            next = null;
+        }
     }
 
     public void moveNodeToHead(Node cur){
-
-        if(head != cur) {
-            if (cur == end) {
+        if(head != cur){
+            if(cur == end)
                 end = cur.pre;
-                cur.pre.next = null;
-            } else {
+            if(cur.pre != null)
                 cur.pre.next = cur.next;
+            if(cur.next != null)
                 cur.next.pre = cur.pre;
-            }
             cur.next = head;
             cur.pre = null;
             head.pre = cur;
@@ -74,10 +83,12 @@ public class _146_LRUCache {
         }
     }
 
-    public class Node{
-        Node pre;
-        Node next;
-        int key;
-        int value;
+    public void print(){
+        Node cur = head;
+        while(cur != null) {
+            System.out.println(cur.key + " " + cur.val);
+            cur = cur.next;
+        }
+        System.out.println("tail is " + end.key + "  "  + end.val);
     }
 }
