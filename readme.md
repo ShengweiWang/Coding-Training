@@ -86,3 +86,13 @@ LinkedList:
 3.A nice way to get intersection. a = a == null?headB:a.next; 
 4.Copy random a1->b1->a2->b2...
 5.Insertion Sort
+
+HashMap:
+1.hashset, hashmap
+2.double mapping
+
+TwoPointer:
+1.Slow and fast pointer
+2.X sum problem, sorted, then go l, r
+3.int[n + 1] stores 1~n , must have a circle
+4.

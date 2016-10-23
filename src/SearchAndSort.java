@@ -9,24 +9,26 @@ public class SearchAndSort {
         int n = 20;
         int[] a = new int[n];
         int[] corner1 = {1,1,1,1,1,1,1};
-        int[] corner2 = {9,8,7,6,5,5,4,3,2,1};
+        int[] corner2 = {9,8,7,6,5,5,5,5,4,4,4,4,3,2,1};
         Random r = new Random();
         for(int i = 0; i <n; ++i)
             a[i] = r.nextInt(1000);
         int[] b = a;
         Arrays.sort(b);
         SearchAndSort solution = new SearchAndSort();
-//        solution.qsort(a, 0, n-1);
-//        solution.print(a);
-//        System.out.println();
-//
-//        solution.qsort(corner1, 0, corner1.length - 1);
-//        solution.print(corner1);
-//        System.out.println();
-//
-//        solution.qsort(corner2, 0, corner2.length - 1);
-//        solution.print(corner2);
-//        System.out.println();
+        solution.qsort(a, 0, n-1);
+        solution.print(a);
+        System.out.println();
+
+        solution.qsort(corner1, 0, corner1.length - 1);
+        solution.print(corner1);
+        System.out.println();
+
+        solution.qsort(corner2, 0, corner2.length - 1);
+        solution.print(corner2);
+        System.out.println();
+
+
 //        solution.mergeSort(a, 0, a.length - 1, new int[a.length]);
 //        solution.print(a);
 //        System.out.println();
@@ -38,17 +40,17 @@ public class SearchAndSort {
 //        solution.mergeSort(corner2, 0, corner2.length - 1, new int[corner2.length]);
 //        solution.print(corner2);
 //        System.out.println();
-        solution.heapSort(a);
-        solution.print(a);
-        System.out.println();
-
-        solution.heapSort(corner1);
-        solution.print(corner1);
-        System.out.println();
-
-        solution.heapSort(corner2);
-        solution.print(corner2);
-        System.out.println();
+//        solution.heapSort(a);
+//        solution.print(a);
+//        System.out.println();
+//
+//        solution.heapSort(corner1);
+//        solution.print(corner1);
+//        System.out.println();
+//
+//        solution.heapSort(corner2);
+//        solution.print(corner2);
+//        System.out.println();
 
     }
     void print(int[] a){
@@ -63,25 +65,21 @@ public class SearchAndSort {
     void qsort(int[] a, int l, int r){
         if(l >= r)
             return;
-        int mid = l + (r - l) / 2;
-        int x = a[mid];
+        int x = a[r];
         int i = l;
         int j = r;
         while(i < j){
             while(i < j && a[i] < x)
                 ++i;
-            while(i < j && a[j] > x)
+            while(i < j && a[j] >= x)
                 --j;
-            if(i < j) {
-                swap(a, i, j);
-                ++i;
-                --j;
-            }
+            swap(a, i, j);
         }
+        swap(a, i, r);
         if(l < i - 1)
             qsort(a, l, i - 1);
-        if(j + 1 < r)
-            qsort(a, j + 1, r);
+        if(i + 1 < r)
+            qsort(a, i + 1, r);
     }
 
     void mergeSort(int[] a, int l, int r, int[] b){
