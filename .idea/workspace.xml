@@ -2,97 +2,464 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49338ae3-1f5c-4c32-8f12-3ea04ffe2268" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/CodingSample.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/Ibm_oa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/Interval.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/ListNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/OA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LogicMonitor/Oa.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/UndirectedGraphNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_128_LongestConsecutiveSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_133_CloneGraph.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_139_WordBreak.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_140_WordBreakII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_146_LRUCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_155_MinStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_159_LongestSubstringWithAtMostTwoDistinctCharacters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/twopointer/_15_3Sum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_162_FindPeakElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_163_MissingRanges.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_166_FractionToRecurringDecimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_166_FractionToRecurringDecimal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_173_BinarySearchTreeIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/twopointer/_18_4Sum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_200_NumberOfIsland.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_205_IsomorphicStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_20_ValidParenthese.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_212_WordSearchII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_215_KthLargestElementInAnArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_218_TheSkyLineProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_218_TheSkyLineProblem.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_228_SummaryRanges.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_239_SlidingWindowMaximum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_23_MergeKSortedLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_240_SearchA2DMatrixII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_241_DifferentWaysToAddParentheses.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_253_MeetingRoomsII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/linkedlist/_275_H_IndexII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_276_PaintFence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_279_PerfectSquares.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_280_WiggleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_281_ZigzagIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_284_PeekingIterator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_286_WallsAndGates.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_288_UniqueWordAbbreviation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_289_GameOfLife.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_290_WordPattern.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_295_FindMedianfromDataStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_298_BinaryTreeLongestConsecutiveSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_305_NumberOfIslandsII.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_308_RangeSumQuery_2D.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_312_BurstBalloons.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_314_BinaryTreeVerticalOrderTraversal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_315_CountOfSmallerNumbersAfterSelf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_317_ShortestDistanceFromAllBuildings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_318_MaximumProductOfWordLengths.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_31_NextPermutation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_320_GeneralizedAbbreviation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_327_CountOfRangeSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_329_LongestIncreasingPathInAMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_340_LongestSubstringWithAtMostKDistinctCharacters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_345_ReverseVowelsOfAString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_346_MovingAverageFromDataStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_351_AndroidUnlockPatterns.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_356_LineReflection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_361_BombEnemy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_369_PlusOneLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_379_DesignPhoneDirectory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_388_LongestAbsoluteFilePath.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_394_DecodeString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_397_IntegerReplacement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_399_EvaluateDivision.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_402_RemoveKDigits.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_415_AddStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_417_PacificAtlanticWaterFlow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_418_SentenceScreenFitting.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_422_ValidWordSquare.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_425_WordSquares.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_42_TrappingRainWater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hashmap/_49_GroupAnagrams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_4_MedianOfTwoSortedArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_4_MedianOfTwoSortedArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Divide_and_Conquer/_53_MaximumSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_54_SpiralMatrix.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_56_MergeIntervals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_66_PlusOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/ibm_realOA.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/basicClass/myString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/readme.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Coding-Training/SearchAndSort.class" afterPath="$PROJECT_DIR$/out/production/Coding-Training/SearchAndSort.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/CloseK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/CompanyTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/CopyListWithRandomPointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/CopyListWtihRandomPointer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/HighFiveP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hard/Interval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/KClosestPoints.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/LRUCacheMiss.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hard/ListNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/LongestP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/LongestPalindromeSubstring.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/MaximuSubtreeOfAverage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/MinumumSpanningTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/NestedInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/OrderDepandencys.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/OrderDependency_OA.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hard/Point.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/Ractangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/RectangleOverlap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/RotateMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/TopFiveScore.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hard/TreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/Twitter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/WindowSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/important9/WindowSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_126_WordLadderII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_127_WordLadder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_131_PalindromePartitioning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome/_131_PalindromePartitioning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome/_132_PalindromePartitioningII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_134_GasStation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_16_3SumClosest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_179_LargestNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_207_CourseSchedule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome/_214_ShortestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_261_GraphValidTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome/_267_PalindromePermutationII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_269_AlienDictionary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hard/_297_SerializeAndDeserializeBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_29_DivideTwoIntegers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Hard/_301_RemoveInvalidParentheses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_308_.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_310_MinimumHeightTrees.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_314_BinaryTreeVerticalOrderTraversal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_315_C.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_316_RemoveDuplicateLetters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_321CreateMaximumNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_323_NumberOfConnectedComponentsInAnUndirectedGraph.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_324_WiggleSortII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_327_CountOfRangeSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_330_PatchingArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_332_ReconstructItinerary.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_333_LargestBSTSubtree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome/_336_PalindromePairs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_341_FlattenNestedListIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_356_LineReflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_357_CountNumbersWithUniqueDigits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_362_DesignHitCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_363_MaxSumOfRectangleNoLargerThanK.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_370_RangeAddition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_373_FindKPairsWithSmallestSums.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_377_CombinationSumIV.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_406_QueueReconstructionByHeight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_407_TrappingRainWaterII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_408_ValidWordAbbreviation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_409_LongestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Palindrome/_409_LongestPalindrome.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_411_MinimumUniqueWordAbbreviation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_413_ArithmeticSlices.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_421_MaximumXORofTwoNumberInAnArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_435_NonOverLappingIntervals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_436_FindRightInterval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_43_MultiplyStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_444_SequenceReconstruction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_447_NumberOfBoomerangs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Google/_451_SortCharactersByFrequency.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_5_LongestPalindromicSubstring.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_65_ValidNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/_95_UniqueBinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/oa/amazon/cityConnection.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/BinarySearchTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Dijkstra.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_215_KthLargestElementInAnArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_218_TheSkyLineProblem$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_218_TheSkyLineProblem$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_218_TheSkyLineProblem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_240_SearchA2DMatrixII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_241_DifferentWaysToAddParentheses.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_312_BurstBalloons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_315_CountOfSmallerNumbersAfterSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_327_CountOfRangeSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_4_MedianOfTwoSortedArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_53_MaximumSubarray$ArrayContext.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Divide_and_Conquer/_53_MaximumSubarray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/OA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/OA1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/OA2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/UndirectedGraphNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_128_LongestConsecutiveSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_133_CloneGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_139_WordBreak.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_140_WordBreakII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_155_MinStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_159_LongestSubstringWithAtMostTwoDistinctCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_162_FindPeakElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_163_MissingRanges.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_166_FractionToRecurringDecimal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_173_BinarySearchTreeIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_200_NumberOfIsland.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_20_ValidParenthese.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_212_WordSearchII$Trie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_212_WordSearchII$TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_212_WordSearchII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_218_TheSkyLineProblem.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_228_SummaryRanges.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_239_SlidingWindowMaximum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_23_MergeKSortedLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_253_MeetingRoomsII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_276_PaintFence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_279_PerfectSquares.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_280_WiggleSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_281_ZigzagIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_284_PeekingIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_286_WallsAndGates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_288_UniqueWordAbbreviation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_289_GameOfLife.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_295_FindMedianfromDataStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_298_BinaryTreeLongestConsecutiveSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_305_NumberOfIslandsII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_308_RangeSumQuery_2D.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_317_ShortestDistanceFromAllBuildings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_318_MaximumProductOfWordLengths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_31_NextPermutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_320_GeneralizedAbbreviation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_329_LongestIncreasingPathInAMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_340_LongestSubstringWithAtMostKDistinctCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_345_ReverseVowelsOfAString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_346_MovingAverageFromDataStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_351_AndroidUnlockPatterns.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_361_BombEnemy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_388_LongestAbsoluteFilePath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_394_DecodeString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_415_AddStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_417_PacificAtlanticWaterFlow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_418_SentenceScreenFitting.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_42_TrappingRainWater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_4_MedianOfTwoSortedArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_54_SpiralMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_56_MergeIntervals$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_56_MergeIntervals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/_66_PlusOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Google/new_oa1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/ListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/LogicMonitor/MyThread.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/LogicMonitor/Oa$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/LogicMonitor/Oa.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/Point.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/SearchAndSort.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/StringMatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/TrieNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_100_SameTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_101_SymmetricTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_104_MaximumDepthOfBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_107_BinaryTreeLevelOrderTraversalII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_108_ConvertSortedArrayToBinarySearchTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_10_RegularExpressionMatching.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_110_BalancedBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_112_PathSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_118_PascalsTriangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_119_PascalsTriangleII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_11_ContainerWithMostWater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_120_Triangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_121_BestTimeToBuyAndSellStock.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_122_BestTimeToBuyAndSellStockII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_123_BestTimeToBuyAndSellStockIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_128_LongestConsecutiveSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_129_SomRootToLeafNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_132_PalindromePartitioningII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_135_Candy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_136_SingleNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_138_CopyListWithRandomPointer$RandomListNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_138_CopyListWithRandomPointer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_139_WordBreak.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_13_RomanToInteger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_140_WordBreakII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_141_LinkedListCycle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_144_BinaryTreePreorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_145_BinaryTeePostorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_146_LRUCache$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_146_LRUCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_148_SortList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_149_MaxPointsOnALine.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_152_MaximumProductSubarray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_153_FindMinimumInRotatedSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_154_FindMinimumInRotatedSortedArrayII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_155_MinStack.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_156_BinaryTreeUpsideDown.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_159_LongestSubstringWithAtMostTwoDistinctCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_162_FindPeakElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_163_MissingRanges.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_164_MaximumGap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_167_TwoSumII_InputArrayIsSorted.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_169_MajorityElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_171_ExcelSheetColumnNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_172_FactorialTrailingZeroes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_174_DungeonGame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_17_LetterCombinationsOfAPhoneNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_191_NumberOf1Bits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_198_HouseRobber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_1_TwoSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_202_HappyNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_208_ImplementTrie.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_213_HouseRobberII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_214_ShortestPalindrome.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_217_ContainsDuplicate.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_224_BasicCalculator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_226_InvertBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_226_PalindromePermutation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_228_SummaryRanges.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_229_MajorityElementII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_22_GenerateParentheses.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_230_KthSmallestElementInABST.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_231_PowerOfTwo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_232_ImplementQueueUsingStacks.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_233_NumberOfDigitOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_236_LowestCommonAncestorOfBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_237_DeleteNodeInLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_238_ProductOfArrayExceptSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_239_SlidingWindowMaximum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_240_SearchA2DMatrixII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_241_DifferentWayToAddParentheses.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_243_ShortestWordDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_245_ShortestWordDistanceIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_246_StrobogrammaticNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_247_StrobogrammaticNumberII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_248_StrobogrammaticNumberIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_249_GroupShiftedStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_24_SwapNodesInPairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_250_CountUnivalueSubtrees.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_251_Flatten2DVector.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_252_MeetingRooms.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_253_MeetingRoomsII$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_253_MeetingRoomsII$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_253_MeetingRoomsII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_255_VerifyPreorderSequenceInBinarySearchTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_256_PaintHouse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_257_BinaryTreePaths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_258_AddDigits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_259_3SumSmaller.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_25_ReverseNodesInK_Group.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_260_SingleNumberIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_261_GraphValidTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_263_UglyNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_265_PaintHouseII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_268_MissingNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_269_AlienDictionary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_26_RemoveDuplicatesFromSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_270_ClosestBinarySearchTreeValue.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_272_ClosestBinarySearchTreeValueII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_273_IntegerToEnglishWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_274_HIndex.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_276_PaintFence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_278_FirstBadVersion.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_279_PerfectSquares.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_27_RemoveElement.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_281_ZigzagIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_282_ExpressionAddOperators.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_283_MoveZeroes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_286_WallsAndGates.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_287_FindTheDuplicateNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_288_UniqueWordAbbreviation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_289_GameOfLife.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_291_WordPatternII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_292_NimGame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_293_FlipGame.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_294_FlipGameII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_295_FindMedianFromDataStream$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_295_FindMedianFromDataStream$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_295_FindMedianFromDataStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_296_BestMeetingPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_297_SerializeAndDeserializeBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_298_BinaryTreeLongestConsecutiveSequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_299_BullsAndCows.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_300_LongestIncreasingSubsequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_301_RemoveInvalidParentheses.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_302_SmallestRectangleEnclosingBlackPixels.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_305_NumberOfIslandsII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_306_AdditiveNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_308_RangeSumQuery2D_Mutable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_309_BestTimeToBuyAndSellStockWithColldown.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_30_SubstringWithConcatenationOfAllWords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_312_BurstBalloons.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_315_CountOfSmallerNumbersAfterSelf.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_316_RemoveDuplicatedLetters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_317_ShortestDistanceFromAllBuildings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_318_MaximumProductOfWordLengths.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_319_BulbSwitcher.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_320_GeneralizedAbbreviation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_321_CreateMaximumNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_323_NumberOfConnectedComponentsInAnUndirectedGraph.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_325_MaximunSizeSubarraySumEqualsK.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_326_PowerOfThree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_326_PowerOfTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_327_CountOfRangeSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_328_OddEvenLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_329_LongestIncresingPathInAMatrix$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_329_LongestIncresingPathInAMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_32_LongestValidParentheses.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_330_PatchingArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_331_VerifyPreorderSerializationOfaBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_334_IncreasingTripletSubsequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_335_SelfCrossing.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_336_PalindromePairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_337_HouseRobberIII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_338_CountingBits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_33_SearchInRotatedSortedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_340_LongestSubstringWithAtMostKDistinctCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_342_PowerOfFour.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_343_IntegerBreak.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_344_ReverseString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_345_ReverseVowelsOfAString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_346_MovingAverageFromDataStream.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_347_TopKFrequentElements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_349_IntersectionOfTwoArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_350_IntersectionOfTwoArraysII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_352_DataStreamAsDisjointIntervals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_354_RussianDollEnvelopes$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_354_RussianDollEnvelopes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_357_CountNumberWithUniqueDigits.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_358_RearrangeStringKDistanceApart.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_359_LoggerRateLimiter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_35_SearchInsertPosition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_360_SortTransformedArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_361_BombEnemy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_366_FindLeavesOfBinaryTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_367_ValidPerfectSquare.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_368_LargestDivisibleSubset.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_369_PlusOneLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_36_ValidSudoku.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_370_RangeAddition.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_371_SumOfTwoIntegers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_375_GuessNumberHigherOrLowerII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_376_WiggleSubsequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_377_CombinationSumIV.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_378_KthSmallestElementInASortedMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_380_InsertDeleteGetRandomO1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_381_InsertDeleteGetRandom.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_382_LinkedListRandomNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_383_RansomNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_386_LexicographicalNumbers.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_387_FirstUniqueCharacterInAString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_388_LongestAbsoluteFilePath.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_389_FindTheDifference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_392_IsSubsequence.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_394_DecodeString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_39_CombinationSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_3_LongestSubstringWithoutRepeatingCharacters.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_403_FrogJump.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_42_TrappingRainWater.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_44_WildcardMatching.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_45_JumpGameII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_46_Permutations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_4_MedianOfTwoSortedArrays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_50_Pow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_51_NQueens.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_52_N_QueensII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_53_MaximumSubarray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_56_MergeIntervals$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_56_MergeIntervals$Interval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_56_MergeIntervals.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_57_InsertInterval.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_59_SpiralMatrixII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_66_PlusOne.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_67_AddBinary.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_68_TextJustification.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_70_ClimbingStairs.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_72_EditDistance.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_73_SetMatrixZeroes.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_74_SearchA2DMatrix.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_76_MinimumWindowSubstring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_77_Combinations.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_80_RemoveDuplicatesFromSortedArrayII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_83_RemoveDuplicatesFromSortedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_84_LargestRectangleInHistogram.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_85_MaximalRectangle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_87_ScrambleString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_91_DecodeWays.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_94_BinaryTreeInorderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_96_UniqueBinarySearchTrees.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/_9_PalindromeNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/basicClass/myString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_146_LRUCache$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_146_LRUCache.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_166_FractionToRecurringDecimal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_205_IsomorphicStrings.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_290_WordPattern.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_314_BinaryTreeVerticalOrderTraversal.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_356_LineReflection.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/hashmap/_49_GroupAnagrams.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/TreeNode.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_109_ConvertSortedListToBinarySearchTree.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_142_LinkedListCycleII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_143_ReorderList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_147_InsertionSortList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_160_IntersectionOfTwoLinkedLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_19_RemoveNthNodeFromEndOfList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_203_RemoveLinkedListElements.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_21_MergeTwoSortedLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_234_PalindromeLinkedList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_23_MergeKSortedLists$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_23_MergeKSortedLists.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_275_H_IndexII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_379_DesignPhoneDirectory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_61_RotateList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_82_RemoveDuplicatesFromSortedListII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_86_PartitionList.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/linkedlist/_92_ReverseLinkedListII.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/oa/Ibm_oa.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/oa/ibm$Node.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/oa/ibm.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/oa/ibm_realOA.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/priorityq.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/twopointer/_15_3Sum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Coding-Training/twopointer/_18_4Sum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_132_PalindromePartitioningIITest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_140_WordBreakIITest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_146_LRUCacheTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_167_TwoSumII_InputArrayIsSortedTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_1_TwoSumTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_212_WordSearchIITest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_214_ShortestPalindromeTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_216_CombinationSumIIITest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_224_BasicCalculatorTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_237_DeleteNodeInLinkedListTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_238_ProductOfArrayExceptSelfTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_241_DifferentWayToAddParenthesesTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_260_SingleNumberIIITest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_295_FindMedianFromDataStreamTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_30_SubstringWithConcatenationOfAllWordsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_321_CreateMaximumNumberTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_338_CountingBitsTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_343_IntegerBreakTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_344_ReverseStringTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_371_SumOfTwoIntegersTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_44_WildcardMatchingTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_52_N_QueensIITest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_68_TextJustificationTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/_76_MinimumWindowSubstringTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out/test/Coding-Training/stringMatchTest.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/Google/OA.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/LogicMonitor/Oa.java" afterPath="$PROJECT_DIR$/src/oa/LogicMonitor/Oa.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SearchAndSort.java" afterPath="$PROJECT_DIR$/src/SearchAndSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Google/_399_EvaluateDivision.java" afterPath="$PROJECT_DIR$/src/Google/_399_EvaluateDivision.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Coding-Training.iws" />
@@ -115,36 +482,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_425_WordSquares.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Google/_425_WordSquares.java">
+      <file leaf-file-name="MaximuSubtreeOfAverage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/MaximuSubtreeOfAverage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
               <folding>
-                <element signature="e#1573#1574#0" expanded="true" />
-                <element signature="e#1626#1627#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1640#1641#0" expanded="true" />
+                <element signature="e#1679#1680#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_422_ValidWordSquare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Google/_422_ValidWordSquare.java">
+      <file leaf-file-name="KClosestPoints.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/KClosestPoints.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#782#783#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestP.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/LongestP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_379_DesignPhoneDirectory.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Google/_379_DesignPhoneDirectory.java">
+      <file leaf-file-name="WindowSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/WindowSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34768212">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#469#478#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ractangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/Ractangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RectangleOverlap.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/oa/amazon/RectangleOverlap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.52369076">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,57 +580,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Google/_218_TheSkyLineProblem.java" />
-        <option value="$PROJECT_DIR$/src/Google/_42_TrappingRainWater.java" />
-        <option value="$PROJECT_DIR$/src/Google/_295_FindMedianfromDataStream.java" />
-        <option value="$PROJECT_DIR$/src/Google/_289_GameOfLife.java" />
-        <option value="$PROJECT_DIR$/src/Google/_281_ZigzagIterator.java" />
-        <option value="$PROJECT_DIR$/src/Google/_155_MinStack.java" />
-        <option value="$PROJECT_DIR$/src/Google/_139_WordBreak.java" />
-        <option value="$PROJECT_DIR$/src/Google/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/Google/_23_MergeKSortedLists.java" />
-        <option value="$PROJECT_DIR$/src/Google/_162_FindPeakElement.java" />
-        <option value="$PROJECT_DIR$/src/Google/_128_LongestConsecutiveSequence.java" />
-        <option value="$PROJECT_DIR$/src/Google/_280_WiggleSort.java" />
-        <option value="$PROJECT_DIR$/src/Google/_239_SlidingWindowMaximum.java" />
-        <option value="$PROJECT_DIR$/src/Google/_212_WordSearchII.java" />
-        <option value="$PROJECT_DIR$/src/Google/PeekingIterator.java" />
-        <option value="$PROJECT_DIR$/src/Google/_284_PeekingIterator.java" />
-        <option value="$PROJECT_DIR$/src/Google/_361_BombEnemy.java" />
-        <option value="$PROJECT_DIR$/src/Google/_286_WallsAndGates.java" />
-        <option value="$PROJECT_DIR$/src/LogicMonitor/ibm.java" />
-        <option value="$PROJECT_DIR$/src/LogicMonitor/Oa.java" />
-        <option value="$PROJECT_DIR$/src/Google/_54_SpiralMatrix.java" />
-        <option value="$PROJECT_DIR$/src/Google/_317_ShortestDistanceFromAllBuildings.java" />
-        <option value="$PROJECT_DIR$/src/Google/_166_FractionToRecurringDecimal.java" />
-        <option value="$PROJECT_DIR$/src/Google/UndirectedGraphNode.java" />
-        <option value="$PROJECT_DIR$/src/Google/_133_CloneGraph.java" />
-        <option value="$PROJECT_DIR$/src/Google/_346_MovingAverageFromDataStream.java" />
-        <option value="$PROJECT_DIR$/src/Google/_329_LongestIncreasingPathInAMatrix.java" />
-        <option value="$PROJECT_DIR$/src/Google/_31_NextPermutation.java" />
-        <option value="$PROJECT_DIR$/src/Google/_318_MaximumProductOfWordLengths.java" />
-        <option value="$PROJECT_DIR$/src/Google/_305_NumberOfIslandsII.java" />
-        <option value="$PROJECT_DIR$/src/Google/_140_WordBreakII.java" />
-        <option value="$PROJECT_DIR$/src/Google/_173_BinarySearchTreeIterator.java" />
-        <option value="$PROJECT_DIR$/src/Google/_394_DecodeString.java" />
-        <option value="$PROJECT_DIR$/src/Google/_276_PaintFence.java" />
-        <option value="$PROJECT_DIR$/src/Google/_253_MeetingRoomsII.java" />
-        <option value="$PROJECT_DIR$/src/Google/_159_LongestSubstringWithAtMostTwoDistinctCharacters.java" />
-        <option value="$PROJECT_DIR$/src/Google/_418_SentenceScreenFitting.java" />
-        <option value="$PROJECT_DIR$/src/Google/readme.md" />
-        <option value="$PROJECT_DIR$/src/Google/_351_AndroidUnlockPatterns.java" />
-        <option value="$PROJECT_DIR$/src/Google/_417_PacificAtlanticWaterFlow.java" />
-        <option value="$PROJECT_DIR$/src/Google/_415_AddStrings.java" />
-        <option value="$PROJECT_DIR$/src/Google/_320_GeneralizedAbbreviation.java" />
-        <option value="$PROJECT_DIR$/src/Google/OA.java" />
-        <option value="$PROJECT_DIR$/src/Google/_402_RemoveKDigits.java" />
+        <option value="$PROJECT_DIR$/src/Google/_373_FindKPairsWithSmallestSums.java" />
+        <option value="$PROJECT_DIR$/src/Google/_444_SequenceReconstruction.java" />
+        <option value="$PROJECT_DIR$/src/Google/_407_TrappingRainWaterII.java" />
+        <option value="$PROJECT_DIR$/src/_29_DivideTwoIntegers.java" />
+        <option value="$PROJECT_DIR$/src/_179_LargestNumber.java" />
+        <option value="$PROJECT_DIR$/src/_43_MultiplyStrings.java" />
+        <option value="$PROJECT_DIR$/src/_134_GasStation.java" />
+        <option value="$PROJECT_DIR$/src/_95_UniqueBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/_435_NonOverLappingIntervals.java" />
+        <option value="$PROJECT_DIR$/src/_413_ArithmeticSlices.java" />
+        <option value="$PROJECT_DIR$/src/_436_FindRightInterval.java" />
+        <option value="$PROJECT_DIR$/src/_333_LargestBSTSubtree.java" />
+        <option value="$PROJECT_DIR$/src/_16_3SumClosest.java" />
+        <option value="$PROJECT_DIR$/src/_207_CourseSchedule.java" />
+        <option value="$PROJECT_DIR$/src/_65_ValidNumber.java" />
+        <option value="$PROJECT_DIR$/src/_127_WordLadder.java" />
+        <option value="$PROJECT_DIR$/src/_126_WordLadderII.java" />
+        <option value="$PROJECT_DIR$/src/_5_LongestPalindromicSubstring.java" />
+        <option value="$PROJECT_DIR$/src/_131_PalindromePartitioning.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/_409_LongestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/_336_PalindromePairs.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/_131_PalindromePartitioning.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/_214_ShortestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome/_267_PalindromePermutationII.java" />
+        <option value="$PROJECT_DIR$/src/Google/_324_WiggleSortII.java" />
+        <option value="$PROJECT_DIR$/src/Google/_332_ReconstructItinerary.java" />
+        <option value="$PROJECT_DIR$/src/Google/_321CreateMaximumNumber.java" />
+        <option value="$PROJECT_DIR$/src/Google/_421_MaximumXORofTwoNumberInAnArray.java" />
+        <option value="$PROJECT_DIR$/src/Google/_447_NumberOfBoomerangs.java" />
         <option value="$PROJECT_DIR$/src/Google/_399_EvaluateDivision.java" />
-        <option value="$PROJECT_DIR$/src/Google/_397_IntegerReplacement.java" />
-        <option value="$PROJECT_DIR$/src/Google/_369_PlusOneLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/Google/CodingSample.java" />
-        <option value="$PROJECT_DIR$/src/Google/_425_WordSquares.java" />
-        <option value="$PROJECT_DIR$/src/Google/_422_ValidWordSquare.java" />
-        <option value="$PROJECT_DIR$/src/Google/_379_DesignPhoneDirectory.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/CloseK.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/WindowSum.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/LongestPalindromeSubstring.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/TopFiveScore.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/cityConnection.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/OrderDependency.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/OrderDependency_OA.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/CopyListWithRandomPointer.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/CompanyTree.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/LRUCacheMiss.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/RotateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/CopyListWtihRandomPointer.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/MinumumSpanningTree.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/OrderDepandencys.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/HighFiveP.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/MaximuSubtreeOfAverage.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/KClosestPoints.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/LongestP.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/WindowSum.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/important9/Ractangle.java" />
+        <option value="$PROJECT_DIR$/src/oa/amazon/RectangleOverlap.java" />
       </list>
     </option>
   </component>
@@ -238,10 +645,9 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-73" />
-    <option name="y" value="355" />
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="641" />
+    <option name="height" value="725" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -266,8 +672,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -314,49 +718,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Palindrome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coding-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Coding-Training" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="oa" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Coding-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Coding-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LogicMonitor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Coding-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Coding-Training" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Google" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -365,11 +753,16 @@
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Bitbucket/multicore" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Bitbucket/multicore/assignment2/laowang" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="collections.sort&#9;null&#9;null" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Palindrome" />
+      <recent name="$PROJECT_DIR$/src/Hard" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -377,53 +770,14 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Palindrome" />
       <recent name="LogicMonitor" />
       <recent name="Google" />
       <recent name="hashmap" />
       <recent name="linkedlist" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OA">
-    <configuration default="false" name="_388_LongestAbsoluteFilePath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="Google.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="Google._388_LongestAbsoluteFilePath" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Coding-Training" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Oa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="LogicMonitor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="LogicMonitor.Oa" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Coding-Training" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Twitter">
     <configuration default="false" name="_317_ShortestDistanceFromAllBuildings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -472,6 +826,46 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="Google.OA" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding-Training" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="_308_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Google.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Google._308_" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Coding-Training" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Twitter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="oa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="oa.Twitter" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -645,19 +1039,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._388_LongestAbsoluteFilePath" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Oa" />
-      <item index="2" class="java.lang.String" itemvalue="Application._317_ShortestDistanceFromAllBuildings" />
-      <item index="3" class="java.lang.String" itemvalue="Application._166_FractionToRecurringDecimal" />
-      <item index="4" class="java.lang.String" itemvalue="Application.OA" />
+      <item index="0" class="java.lang.String" itemvalue="Application._317_ShortestDistanceFromAllBuildings" />
+      <item index="1" class="java.lang.String" itemvalue="Application._166_FractionToRecurringDecimal" />
+      <item index="2" class="java.lang.String" itemvalue="Application.OA" />
+      <item index="3" class="java.lang.String" itemvalue="Application._308_" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Twitter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.OA" />
-        <item index="1" class="java.lang.String" itemvalue="Application._166_FractionToRecurringDecimal" />
-        <item index="2" class="java.lang.String" itemvalue="Application._317_ShortestDistanceFromAllBuildings" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Oa" />
-        <item index="4" class="java.lang.String" itemvalue="Application._388_LongestAbsoluteFilePath" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Twitter" />
+        <item index="1" class="java.lang.String" itemvalue="Application._308_" />
+        <item index="2" class="java.lang.String" itemvalue="Application.OA" />
+        <item index="3" class="java.lang.String" itemvalue="Application._166_FractionToRecurringDecimal" />
+        <item index="4" class="java.lang.String" itemvalue="Application._317_ShortestDistanceFromAllBuildings" />
       </list>
     </recent_temporary>
   </component>
@@ -675,21 +1069,21 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-73" y="355" width="1280" height="641" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="725" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32240438" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3222749" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901135" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3989071" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2807571" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39810428" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24328594" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -751,442 +1145,439 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Google/_281_ZigzagIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/_5_LongestPalindromicSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_155_MinStack.java">
+    <entry file="file://$PROJECT_DIR$/src/_131_PalindromePartitioning.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_139_WordBreak.java">
+    <entry file="file://$PROJECT_DIR$/src/_140_WordBreakII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/_336_PalindromePairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/_131_PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/_214_ShortestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.6666666">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/_267_PalindromePermutationII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Hard/_301_RemoveInvalidParentheses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.7777777">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_272_ClosestBinarySearchTreeValueII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_233_NumberOfDigitOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_381_InsertDeleteGetRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_162_FindPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="5" selection-start-line="6" selection-start-column="4" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_128_LongestConsecutiveSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Google/_280_WiggleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="15" selection-start-line="6" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_239_SlidingWindowMaximum.java">
+    <entry file="file://$PROJECT_DIR$/src/Google/_324_WiggleSortII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <caret line="60" column="11" selection-start-line="60" selection-start-column="11" selection-end-line="60" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/UndirectedGraphNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46728972">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_329_LongestIncreasingPathInAMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6074766">
-          <caret line="37" column="5" selection-start-line="8" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_346_MovingAverageFromDataStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25233644">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_133_CloneGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46728972">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_166_FractionToRecurringDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5140187">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_317_ShortestDistanceFromAllBuildings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3084112">
-          <caret line="40" column="60" selection-start-line="40" selection-start-column="60" selection-end-line="40" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_54_SpiralMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.74766356">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LogicMonitor/Oa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.093457945">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_286_WallsAndGates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5140187">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_361_BombEnemy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34579438">
-          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_31_NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_318_MaximumProductOfWordLengths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_305_NumberOfIslandsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_140_WordBreakII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_173_BinarySearchTreeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_394_DecodeString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_276_PaintFence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_253_MeetingRoomsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_159_LongestSubstringWithAtMostTwoDistinctCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_418_SentenceScreenFitting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_351_AndroidUnlockPatterns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringMatch.java">
+    <entry file="file://$PROJECT_DIR$/src/Google/_308_.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_284_PeekingIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/Google/_332_ReconstructItinerary.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.43021032">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="3" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_281_ZigzagIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/Google/_321CreateMaximumNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14340344">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_380_InsertDeleteGetRandomO1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google/_421_MaximumXORofTwoNumberInAnArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google/_447_NumberOfBoomerangs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_226_InvertBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google/_4_MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Google/_23_MergeKSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7456979">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_42_TrappingRainWater.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.57361376">
-          <caret line="20" column="48" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_51_NQueens.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.18145162">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_218_TheSkyLineProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8355641">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_212_WordSearchII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37284896">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1694#1702#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_417_PacificAtlanticWaterFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.749522">
-          <caret line="61" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="61" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_415_AddStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48757172">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/_52_N_QueensII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.2829828">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/OA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.549669">
-          <caret line="16" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_320_GeneralizedAbbreviation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.44701988">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="19" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_402_RemoveKDigits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.5397351">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Google/_399_EvaluateDivision.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8013245">
-          <caret line="74" column="5" selection-start-line="9" selection-start-column="4" selection-end-line="74" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_397_IntegerReplacement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8013245">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_369_PlusOneLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.2913908">
-          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/CodingSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09933775">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="5" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_425_WordSquares.java">
+    <entry file="file://$PROJECT_DIR$/src/_65_ValidNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
-          <folding>
-            <element signature="e#1573#1574#0" expanded="true" />
-            <element signature="e#1626#1627#0" expanded="true" />
-          </folding>
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_422_ValidWordSquare.java">
+    <entry file="file://$PROJECT_DIR$/src/_43_MultiplyStrings.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Google/_379_DesignPhoneDirectory.java">
+    <entry file="file://$PROJECT_DIR$/src/_224_BasicCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34768212">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="86" column="23" selection-start-line="86" selection-start-column="23" selection-end-line="86" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchAndSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Google/_308_RangeSumQuery_2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_151_ReverseWordsInAString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome/_409_LongestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12396694">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/LongestPalindromeSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/CloseK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/TopFiveScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/cityConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/HighFiveP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2892768">
+          <caret line="17" column="72" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#364#397#0" expanded="true" />
+            <element signature="e#451#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/MinumumSpanningTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3640898">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding>
+            <element signature="e#317#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/OrderDepandencys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6359102">
+          <caret line="19" column="77" selection-start-line="19" selection-start-column="77" selection-end-line="19" selection-end-column="77" />
+          <folding>
+            <element signature="e#267#283#0" expanded="true" />
+            <element signature="e#336#356#0" expanded="true" />
+            <element signature="e#397#405#0" expanded="true" />
+            <element signature="e#1141#1148#0" expanded="true" />
+            <element signature="e#1192#1199#0" expanded="true" />
+            <element signature="e#1892#1893#0" expanded="true" />
+            <element signature="e#1932#1933#0" expanded="true" />
+            <element signature="e#1985#1986#0" expanded="true" />
+            <element signature="e#2020#2021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/CopyListWtihRandomPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74812967">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/WindowSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6733167">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/OrderDependency_OA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.59850377">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <element signature="e#1928#1929#0" expanded="true" />
+            <element signature="e#1968#1969#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2057#2058#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/CopyListWithRandomPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.50374067">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/CompanyTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8229426">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+          <folding>
+            <element signature="e#171#172#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/LRUCacheMiss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.93516207">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37406483">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/MaximuSubtreeOfAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1679#1680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/KClosestPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/LongestP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/WindowSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#469#478#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/important9/Ractangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/oa/amazon/RectangleOverlap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52369076">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
           </folding>
         </state>
       </provider>

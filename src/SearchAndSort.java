@@ -57,11 +57,11 @@ public class SearchAndSort {
         for(int i : a)
             System.out.println(i);
     }
-    void swap (int[] a, int i, int j){
-        int temp = a[i];
-        a[i] = a[j];
-        a[j] = temp;
-    }
+//    void swap (int[] a, int i, int j){
+//        int temp = a[i];
+//        a[i] = a[j];
+//        a[j] = temp;
+//    }
     void qsort(int[] a, int l, int r){
         if(l >= r)
             return;
@@ -81,6 +81,41 @@ public class SearchAndSort {
         if(i + 1 < r)
             qsort(a, i + 1, r);
     }
+
+    void swap (int[] a, int i, int j) {
+        a[i] ^= a[j];
+        a[j] ^= a[i];
+        a[i] ^= a[j];
+    }
+
+
+    public int quickSelect(int[] nums, int k) {
+        if (nums.length == 0)
+            return 0;
+        int l = 0;
+        int r = nums.length - 1;
+        k = nums.length - k;
+        while (true) {
+            int i = l;
+            int j = r;
+            int x = nums[r];
+            while (i < j) {
+                while (i < j && nums[i] < x)
+                    ++i;
+                while (i < j && nums[j] >= x)
+                    --j;
+                if (i < j) {
+                    swap (nums, i, j);
+                }
+                swap(nums, i, r);
+            }
+            if (i == k)
+                return x;
+            else
+            if ( i < k) l = i + 1; else r = i - 1;
+        }
+    }
+
 
     void mergeSort(int[] a, int l, int r, int[] b){
         if(l >= r)
